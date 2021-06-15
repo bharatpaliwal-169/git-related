@@ -24,3 +24,12 @@ git pull
 git pull origin [branch]
 
 ```
+
+### update individual branch with main
+```
+ git checkout main
+ git pull
+ git checkout validator
+ git merge main
+ git push
+```
