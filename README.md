@@ -4,6 +4,9 @@
 ```
  rmdir -Force -Recurse .git
 ```
+```
+ rm -rf .git
+```
 ### Check which branch
 
 ```
